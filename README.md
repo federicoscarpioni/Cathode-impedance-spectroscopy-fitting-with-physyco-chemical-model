@@ -11,10 +11,10 @@ For the theory behind the refers to my [thesis manuscript](./resources/scarpioni
 Make sure to have overwritten your correct data path and names. Create also a folder called "par" in the same directory of the script to store all result of the fitting (parameters value) in txt files.
 
 # Screenshots of the fitting results
-![30 fit](./resources/30 fit.jpg)
+![30 fit](./resources/30_fit.jpg)
 Residues of the fitting procedure:
 
-![30 fit](./resources/30 fit residues.jpg)
+![30 fit](./resources/30_fit_residues.jpg)
 
 # Screenshots of the validation procedure
 
