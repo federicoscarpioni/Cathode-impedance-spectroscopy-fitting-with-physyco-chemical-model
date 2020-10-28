@@ -1,10 +1,10 @@
-# Electrodes impedance spectra fitting with a physico-chemical model
+# Porous electrodes impedance spectra fitting with a physico-chemical model
 
 This repository contains two script to validate and fit impedance spectroscopy data.
 
 Validation of the data is made using the `voigt_fitting.m` script. Note that it require the output of the script  `rnd_par_gen.m` to work. The fitting procedure itself use the  `CNLF_porous_electrode.m`.
 
-For the theory behind the refers to my [thesis manuscript](./resources/scarpioni-federico-master-thesis.pdf).
+For the theory behind the theoretical model used refer to my [thesis manuscript](./resources/scarpioni-federico-master-thesis.pdf).
 
 # Notes for a proper usage
 
